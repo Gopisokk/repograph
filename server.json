@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Gopisokk/repograph",
+  "description": "Local-first repository graph and hybrid retrieval engine for AI coding agents. No cloud, no telemetry — just your code, indexed.",
+  "title": "repograph",
+  "repository": {
+    "url": "https://github.com/Gopisokk/repograph",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "repograph",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "runtimeArguments": ["--from", "repograph", "sg-mcp"],
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
