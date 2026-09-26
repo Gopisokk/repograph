@@ -1,3 +1,4 @@
+# Performance: optimized batch sizes and idle thresholds for large repositories
 """Resource governor — caps indexing to stay local-first friendly."""
 
 import os
