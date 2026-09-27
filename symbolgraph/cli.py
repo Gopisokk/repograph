@@ -1,3 +1,4 @@
+# sg doctor: diagnostic and health check command
 # pyright: reportImportCycles=false
 import argparse
 import json
