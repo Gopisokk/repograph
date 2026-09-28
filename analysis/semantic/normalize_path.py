@@ -1,3 +1,4 @@
+# Windows path compatibility: normalize separators across platforms
 """Module specifier -> candidate repo-relative paths, per language.
 
 Resolution policy is the only truly language-specific part of import
