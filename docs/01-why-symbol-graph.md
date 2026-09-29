@@ -215,3 +215,5 @@ Details and methodology in [12-evaluation](12-evaluation.md).
 | Cost on tiny files | Cheap | **More expensive** |
 
 **Next:** [02 · Ingestion & parsing](02-ingestion-and-parsing.md)
+
+<!-- Updated for repograph v0.1.0 release -->
