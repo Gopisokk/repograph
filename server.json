@@ -7,13 +7,13 @@
     "url": "https://github.com/Gopisokk/repograph",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.0"  ,
   "packages": [
     {
       "registryType": "pypi",
       "registryBaseUrl": "https://pypi.org",
       "identifier": "repograph",
-      "version": "0.1.0",
+      "version": "0.1.0"  ,
       "runtimeHint": "uvx",
       "runtimeArguments": ["--from", "repograph", "sg-mcp"],
       "transport": {
@@ -22,3 +22,4 @@
     }
   ]
 }
+
